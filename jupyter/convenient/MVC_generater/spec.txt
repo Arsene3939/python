@@ -1,0 +1,434 @@
+todo	代辦事項    todo
+代辦事項編號	todoCode	VARCHAR(255)
+代辦種類	todoCategory	VARCHAR(45)
+代辦日期	todoDate	DATE
+代辦項目	todoItem	VARCHAR(255)
+代辦補充	todoRemark	VARCHAR(255)
+
+financialStatement  簡明三表    fs
+財報類別	fsCategory	VARCHAR(45)
+第一層科目代碼	fsFirstLevelCode	
+第一層科目名稱	fsFirstLevelAccount	VARCHAR(45)
+第二層科目代碼	fsSecondLevelCode	
+第二層科目名稱	fsSecondLevelAccount	VARCHAR(45)
+第三層科目代碼	fsThirdLevelCode	
+第三層科目名稱	fsThirdLevelAccount	VARCHAR(45)
+第四層科目代碼	fsFourthLevelCode	
+第四層科目名稱	fsFourthLevelAccount	VARCHAR(45)
+期別	fsDuration	VARCHAR(45)
+金額	fsAmount	NUMERIC
+
+balanceSheet	資產負債表  bs
+第一層科目代碼	bsFirstLevelCode
+第一層科目名稱	bsFirstLevelAccount	VARCHAR(45)
+第二層科目代碼	bsSecondLevelCode	
+第二層科目名稱	bsSecondLevelAccount	VARCHAR(45)
+第三層科目代碼	bsThirdLevelCode	
+第三層科目名稱	bsThirdLevelAccount	VARCHAR(45)
+第四層科目代碼	bsFourthLevelCode	
+第四層科目名稱	bsFourthLevelAccount	VARCHAR(45)
+期別	bsDuration	VARCHAR(45)
+金額	bsAmount	NUMERIC(15)
+金額是否為負數	isNegative	BOOLEAN
+
+incomeStatement	損益表  is
+第一層科目代碼	isFirstLevelCode	
+第一層科目名稱	isFirstLevelAccount	VARCHAR(45)
+第二層科目代碼	isSecondLevelCode	
+第二層科目名稱	isSecondLevelAccount	VARCHAR(45)
+第三層科目代碼	isThirdLevelCode	
+第三層科目名稱	isThirdLevelAccount	VARCHAR(45)
+第四層科目代碼	isFourthLevelCode	
+第四層科目名稱	isFourthLevelAccount	VARCHAR(45)
+期別開始時間	isStartDate	DATE
+期別結束時間	isEndDate	DATE
+金額	isAmount	MONEY
+金額是否為負數	isNegative	BOOLEAN
+
+cashflowStatement	現金流量表  cfs
+第一層科目代碼	cfsFirstLevelCode	
+第一層科目名稱	cfsFirstLevelAccount	VARCHAR(45)
+第二層科目代碼	cfsSecondLevelCode	
+第二層科目名稱	cfsSecondLevelAccount	VARCHAR(45)
+第三層科目代碼	cfsThirdLevelCode	
+第三層科目名稱	cfsThirdLevelAccount	VARCHAR(45)
+第四層科目代碼	cfsFourthLevelCode	
+第四層科目名稱	cfsFourthLevelAccount	VARCHAR(45)
+期別開始時間	cfsStartDate	DATE
+期別結束時間	cfsEndDate	DATE
+金額	cfsAmount	NUMERIC(15)
+金額是否為負數	isNegative	BOOLEAN
+
+faTransaction	固定資產買賣表  fa
+固定資產買賣編號	fatCode
+固定資產編號	faCode	VARCHAR(25)
+使用部門Code	deptCode	VARCHAR(25)
+資產保管員工Code	empCode	VARCHAR(25)
+資產名稱	faName	VARCHAR(100)
+資產類別	faCategory	VARCHAR(50)
+資產類型	faType	VARCHAR(50)
+處分/取得日期	fatTransactionDate	DATE
+付款/收款日期	fatPaidRcvDate	DATE
+處分/ 取得金額	fatAmount	DECIMAL(12, 2)
+是否以現金買入或賣出	fatIsCash	BOOLEAN
+買方/賣方	fatSellerAndBuyer	VARCHAR(100)
+狀態	fatStatus	VARCHAR(50)
+備註	fatRemarks	VARCHAR(255)
+是否AI 分錄	isJournal	BOOLEAN
+
+fixedAssets	固定資產變動表  fa
+固定資產編號	faCode	VARCHAR(25)
+使用部門Code	deptCode	VARCHAR(25)
+資產保管員工Code	empCode	VARCHAR(25)
+資產名稱	faName	VARCHAR(100)
+資產會計代碼(尾數0)	faAccountCode	
+資產類別	faCategory	VARCHAR(50)
+資產類型	faType	VARCHAR(50)
+原價值	faOriginalValue	DECIMAL(12, 2)
+折舊開始日	faDepreciationStartDate	DATE
+耐用年限(月)	faDuration	DECIMAL(12, 2)
+折舊計算方式	faDepreciationCalMethod	VARCHAR(25)
+累計折舊	faAccumulatedDepreciation	DECIMAL(12, 2)
+淨值	faNetValue	DECIMAL(12, 2)
+是否AI 分錄	isJournal	BOOLEAN
+
+account	會計項目    account
+會計項目代號	accountCode	VARCHAR(25)
+會計項目名稱(中文)	accountName	VARCHAR(45)
+會計類別	accountType	VARCHAR(25)
+失效日	accountExpirationDate	DATE
+
+journal	分錄    journal
+交易流水號	journalSeqNo	INT
+該交易流水號下每個會計科目的編號	journalSubjectsNo	INT
+交易發生日期	journalDate	DATE
+會科編號	journalAccountCode	VARCHAR(25)
+會計科目	journalAccountName	VARCHAR(45)
+借方或貸方	journalType	VARCHAR(25)
+該筆交易來自哪個表	journalTrxTable	VARCHAR(25)
+該筆交易來該表的id	journalTrxId	INT
+交易金額	journalAmount	numeric
+交易描述	journalDesc	VARCHAR(255)
+交易備註	jouranlRemark	VARCHAR(255)
+
+alarm	預警    alarm
+警示編號	alarmCode	VARCHAR(25)
+警示種類	alarmCategory	VARCHAR(25)
+警示標準	RedThresholdValue	INT
+警示層級	YellowThresholdValue	INT
+警示期間	alarmClass	VARCHAR(25)
+警示名字	alarmName	VARCHAR(50)
+是否啟用警示	alarmEnable	BOOLEAN
+警示目標資料	alarmTarget	VARCHAR(50)
+警示比較方式	alarmCompareType	VARCHAR(50)
+警示結果	alarmStatus	INT
+
+user	使用者  user
+使用者姓名	userName	VARCHAR(50)
+權限id	roleId	INT
+使用者電子信箱	userEmail	VARCHAR(255)
+使用者密碼	userPassword	VARCHAR(60)
+存取憑證	userAccessToken	VARCHAR(255)
+最後登入時間	userLastLogin	DATETIME
+
+department	部門    dept
+部門名稱	deptName	VARCHAR(50)
+部門code	deptCode	VARCHAR(25)
+
+employee	員工    emp
+部門code	deptCode	VARCHAR(25)
+員工編號	empCode	VARCHAR(25)
+員工姓名	empName	VARCHAR(50)
+員工身分證字號	empIDNumber	VARCHAR(50)
+員工Email	empEmail	VARCHAR(255)
+員工行動電話	empCellphone	VARCHAR(50)
+員工性別	empGender	VARCHAR(10)
+員工地址	empAddress	VARCHAR(255)
+員工市內電話	empTel	VARCHAR(50)
+員工職稱	empTitle	VARCHAR(255)
+員工職級	empGrade	VARCHAR(50)	
+員工職等	empRank	INTEGER
+是否為兼職員工	empIsPartTime 	BOOLEAN
+員工入職日	empOnBoardDate	DATE
+員工離職日	empResignDate	DATE
+員工生日	empBirthday	DATE
+最後登入時間	empLastLogin	DATETIME
+
+customer	買受人(客戶)    cust
+客戶編號	custCode	VARCHAR(25)
+客戶名稱	custName	VARCHAR(50)
+客戶連絡人	custRep	VARCHAR(50)
+客戶連絡電話	custTel	VARCHAR(50)
+客戶Email	custEmail	VARCHAR(255)
+客戶帳單地址	custBillToAddress	VARCHAR(255)
+客戶送貨地址	custShipToAdress	VARCHAR(255)
+客戶統編	custGuiNumber	VARCHAR(50)
+
+bank	銀行帳戶    bank
+銀行編號	bankCode	VARCHAR(25)
+銀行代碼	bankSwiftCode	VARCHAR(25)
+銀行帳號	bankAccount	VARCHAR(255)
+銀行帳戶擁有者類別	bankOwnerType	INT1(1byte data type)
+銀行帳戶擁有者	bankOwnerCode	VARCHAR(255)
+
+loan	銀行借貸表  loan
+借貸編號	loanCode	
+借貸類型	loanType	VARCHAR(45)
+借款金額	loanAmount	MONEY
+貸款利率	loanInterestRate	DECIMAL 
+貸款期限	loanTerm	INT
+借款日期	loanDate	DATE
+還款方式	loanRepaymentMethod	VARCHAR(45)
+還款金額	loanRepaymentAmount	MONEY
+還款日期	loanRepaymentDate	DATE
+借貸狀態	loanStatus	VARCHAR(45)
+是否AI 分錄	isJournal	BOOLEAN
+
+cashflow	現金帳  cashflow
+現金紀錄單號	cashflowNumber	VARCHAR(25)
+進出帳時間	cashflowDate	DATETIME
+銀行編號	bankCode	VARCHAR(25)
+出入帳事由	cashflowDesc	VARCHAR(255)
+現金帳類別(營運、投資、融資...or其他)	cashflowType	VARCHAR(45)
+是否為入帳	cashflowTrxType	BOOLEAN
+金額	cashflowAmount	NUMERIC(15)
+幣別	cashflowCurrency	VARCHAR(3)
+是否AI 分錄	isJournal	BOOLEAN
+
+company	公司    company
+公司名稱	companyName	VARCHAR(50)
+公司電話	companyTel	VARCHAR(50)
+公司代表電郵	companyEmail	VARCHAR(255)
+公司地址	companyAddress	VARCHAR(255)
+公司統編	companyGuiNumber	VARCHAR(50)
+公司帳本幣別	companyCurrency	VARCHAR(3)
+母公司編號	companyParentCode	VARCHAR(25)
+負責人姓名	companyPrincipleName	VARCHAR(50)
+
+product	產品    prod
+倉儲編號	storageCode	VARCHAR(25)
+供應商編號	vendorCode
+產品料號	prodNumber	VARCHAR(25)
+產品型號	prodModel	VARCHAR(50)
+產品名稱	prodName	VARCHAR(50)
+產品品牌	prodBrand	VARCHAR(50)
+產品說明	prodDesc	VARCHAR(255)
+產品單價(售價)	prodUnitPrice	MONEY
+產品標準材料成本	prodUnitCost	MONEY
+產品安全存量	prodSafetyQty	INT
+單位	prodUnit	VARCHAR(50)
+最小起訂量	prodMOQ	INT
+進貨單價級距1	prodUnitPriceQuantity1	INT
+進貨單價級距2	prodUnitPriceQuantity2	INT
+進貨單價級距3	prodUnitPriceQuantity3	INT
+
+inv	庫存盤點    inv
+倉庫編號	storageCode	VARCHAR(25)
+盤點人員編號	empCode	VARCHAR(25)
+店家編號	shopCode	VARCHAR(25)
+產品料號	prodNumber	VARCHAR(25)
+庫存盤點編號	invCode	
+盤點日期	invDate	DATETIME
+剩餘數量	invLeftQty	INT
+每單位成本	invUnitCost	MONEY
+
+vendor	供應廠商(含合作商) vendor
+供應商編號	vendorCode	VARCHAR(25)
+供應商名稱	vendorName	VARCHAR(50)
+供應商類別	vendorType	VARCHAR(50)
+供應商電話	vendorTel	VARCHAR(50)
+供應商電郵	vendorEmail	VARCHAR(255)
+供應商統編	vendorGuiNumber	VARCHAR(50)
+
+paymentMethod	付款方法    pm
+付款方法	paymentMethodName	VARCHAR(25)
+付款期限	paymentTerm	INT
+
+pettyCash	零用金代墊  pc
+費用隸屬專案	projCode	VARCHAR(25)
+員工編號	empCode	VARCHAR(25)
+費用隸屬產品料號	prodNumber	VARCHAR(25)
+零用金代墊編號	pcCode	varchar
+代墊項目	pcContent	VARCHAR(255)
+費用發生時間	pcApplyDate	DATE
+發票取得時間	pcReceiptDate	DATE
+費用類別	pcFeeType	VARCHAR(45)
+代墊金額	pcAmount	MONEY
+稅率代碼	pcTaxCode	VARCHAR(45)
+是否領款	pcPaidStatus	BOOLEAN
+領款日期	pcPaidDate	DATE
+是否寄送給會計師	pcSendStatus	BOOLEAN
+憑證類別	pcReceiptType	INT1(1 byte data type)
+備註	pcRemark	VARCHAR(255)
+是否AI 分錄	isJournal	BOOLEAN
+
+poReceived	採購收料    poRcv
+使用者編號	empCode	VARCHAR(25)
+產品料號	prodNumber	VARCHAR(25)
+店家編號	shopCode	VARCHAR(25)
+供應商編號	vendorCode	VARCHAR(25)
+採購單號	poNumber	VARCHAR(25)
+採購料號	poRcvVendorPN	VARCHAR(25)
+採購數量	poOrderedQty	INT
+採購單價	poPrice	MONEY
+採購金額	poAmount	MONEY
+發票編號	poInvoiceNumber	VARCHAR(255)
+發票開立時間	poInvoiceDate	DATE
+稅率代碼	poTaxCode	VARCHAR(45)
+憑證類別	poReceiptType	INT1(1 byte data type)
+收料單號	poRcvNumber	VARCHAR(25)
+收貨數量	poReceivedQty	INT
+收料日期	poReceivedDate	DATE
+預計付款日期	poEstPaidDate	DATE
+實際付款日期	poPaidDate	DATE
+付款狀態	poPaidStatus	BOOLEAN
+備註說明	poRemark	VARCHAR(255)
+是否AI 分錄	isJournal	BOOLEAN
+
+soReceivable	產品銷貨紀錄    soRcv
+銷售員工編號	empCode	VARCHAR(25)
+客戶編號	custCode	VARCHAR(25)
+產品料號	prodNumber	VARCHAR(25)
+店家編號	shopCode	VARCHAR(25)
+事業體編號	bizUnitCode	VARCHAR(25)
+產品銷貨編號	soRcvCode	
+發票編號	soRcvInvoiceNumber	VARCHAR(50)
+銷售數量	soRcvSalesQty	INT
+開立時間	soRcvInvoiceDate	DATE
+銷售額	soRcvSalesAmount	MONEY
+預計入帳時間	soRcvDueDate	DATE
+實際入帳時間	soRcvPostDate	DATE
+收款狀態(是否已收到款項)	soRcvStatus	BOOLEAN
+銷售渠道	soRcvSalesChannel	VARCHAR(50)
+銷售平台	soRcvSalesPlatform	VARCHAR(50)
+備註	soRcvRemark	VARCHAR(50)
+是否AI 分錄	isJournal	BOOLEAN
+
+returnsAndAllowances	折讓退貨表  sra
+處理員工ID	empCode	VARCHAR(25)
+客戶編號	custCode	VARCHAR(25)
+產品料號	prodNumber	VARCHAR(25)
+店家編號	shopCode	VARCHAR(25)
+事業體編號	bizUnitCode	VARCHAR(25)
+是否為退貨	sraIsReturn	BOOLEAN
+退貨折讓發生的日期	sraReturnDate	DATE
+退貨數量	sraReturnQty	INT
+退貨原因	sraReturnReason	VARCHAR(255)
+折讓金額	sraAllowanceAmount	MONEY
+退款金額	sraRefundAmount	MONEY
+發票號碼	sraInvoiceNumber	VARCHAR(50)
+是否AI 分錄	isJournal	BOOLEAN
+
+project	專案    proj
+客戶編號	custCode	VARCHAR(25)
+員工編號	empCode	VARCHAR(25)
+事業體編號	bizUnitCode	VARCHAR(25)
+專案編號	projCode	VARCHAR(25)
+專案名稱	projName	VARCHAR(50)
+專案內容	projContent	VARCHAR(255)
+專案狀態	projStatus	VARCHAR(50)
+簽約日期	projContractDate	DATE
+專案起始日期	projStartDate	DATE
+專案結束日期	projFinishedDate	DATE
+預計收入金額	projAccruedRevenue	MONEY
+預計毛利	projPlanGrossProfit	MONEY
+簽約案件金額	projContractAmount	MONEY
+
+salaries	薪資列表    salaries
+員工編號	empCode	VARCHAR(25)
+薪資編號	salariesCode	
+月薪	salariesMonthlySalary	MONEY
+時薪	salariesHourlySalary	MONEY
+期別	salariesYearMonth	DATE
+基本工時	salariesWorkingHour	NUMERIC
+加班時數	salariesOvertimeWorkingHour	NUMERIC
+獎金	salariesBonus	MONEY
+加班費	salariesOvertimePay	MONEY
+伙食加給	salariesFoodExp	MONEY
+其他加給	salariesOthersExp	MONEY
+請假扣款金額	salariesOffAmount	MONEY
+代扣所得稅	salariesWithHoldingTax	MONEY
+代扣勞保	salariesLI	MONEY
+代扣健保	salariesNHI	MONEY
+其他扣款費用	salariesOthersFee	MONEY
+是否AI 分錄	isJournal	BOOLEAN
+
+shop	店家    shop
+店家編號	shopCode	VARCHAR(25)
+店家名稱	shopName	VARCHAR(255)
+店家地區	shopArea	VARCHAR(45)
+店家地址	shopAddress	VARCHAR(255)
+
+storage	倉儲    storage
+倉儲編號	storageCode	VARCHAR(25)
+倉儲名稱	storageName	VARCHAR(255)
+倉儲類別	storageType	VARCHAR(255)
+倉儲地址	storageAddress	VARCHAR(255)
+
+business_unit	事業體  bizUnit
+事業體編號	bizUnitCode	VARCHAR(25)
+事業體名稱	bizUnitName	VARCHAR(45)
+
+expense	成本列表    exp
+事業體編號	bizUnitCode	VARCHAR(25)
+專案編號	projCode	VARCHAR(25)
+產品料號	prodNumber	VARCHAR(25)
+員工編號	empCode	VARCHAR(25)
+成本編號	expCode	
+發票編號	expInvoiceNumber	VARCHAR(255)
+發票開立時間	expInvoiceDate	DATE
+稅率代碼	expTaxCode	VARCHAR(45)
+憑證類別	expReceiptType	INT1(1 byte data type)
+會計科目	expAccount	VARCHAR(45)
+類別	expType	INTEGER
+內容(描述)	expContent	VARCHAR(255)
+金額	expAmount	NUMERIC
+付款對象	expPayfor	VARCHAR(25)
+付款方式	expPaymentMethod	VARCHAR(25)
+預計付款時間	expEstPaidDate	DATE
+實際付款時間	expPaidDate	DATE
+是否出款	expPaidStatus	BOOLEAN
+備註	expRemark	VARCHAR(255)
+是否AI 分錄	isJournal	BOOLEAN
+
+salesTarget	銷售預估    salesTarget
+期別(年月)	salesTargetYearMonth	DATE
+預估產品料號	prodNumber	VARCHAR(25)
+預估專案編號	projCode	VARCHAR(25)
+事業體編號	bizUnitCode	VARCHAR(25)
+銷售預估編號	targetCode	
+目標銷售額	targetAmount	MONEY
+目標毛利	targetGrossProfit	MONEY
+預估毛利率	targetGPPercentage	FLOAT
+預估淨利	targetNetIncome	MONEY
+預估淨利率	targetNetIncomePercentage	FLOAT
+目標庫存天數	targetInventoryDays	NUMERIC
+
+poForecast	進貨預估    poFcst
+進貨預估編號	poFcstCode	
+採購週期(起始日) -> 採購起始日	poFcstStartDate	DATE
+採購週期(結束日)  -> 採購結束日	poFcstEndDate	DATE
+供應商編號	vendorCode	VARCHAR(25)
+產品料號	prodNumber	VARCHAR(25)
+預估進貨量	poFcstqty	INT
+預估進貨金額	poFcstAmt	MONEY
+
+insurance	保險    insurance
+員工編號	empCode	VARCHAR(25)
+保險編號	insuranceCode	varchar
+投保年份&月份	insuranceYearMonth	DATE
+投保級距	insuranceGrade	VARCHAR(45)
+員工負擔金額(勞保)	insuranceLILabor	MONEY
+企業負擔金額(勞保)	insuranceLIEnterprise	MONEY
+員工負擔金額(健保)	insuranceNHILabor	MONEY
+企業負擔金額(健保)	insuranceNHIEnterprise	MONEY
+勞退提撥金額	insurancePension	MONEY
+是否AI 分錄	isJournal	BOOLEAN
+
+upload	上傳    upload
+使用者id	uploadUserId	INT
+上傳類型	uploadType	varchar(50)
+檔案路徑	uploadFilePath	varchar(255)
+檔案名稱	uploadFileName	varchar(50)
+上傳時間	uploadDatetime	DATETIME
+同步時間	syncDatetime	DATETIME

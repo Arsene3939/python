@@ -1,0 +1,96 @@
+"use strict";
+
+import { DataTypes } from "sequelize";
+import { Types, Validates } from "../config/database.config.js";
+import { belongsTo } from "../utils/database.utils.js";
+
+
+// foreign key: company_id, role_id
+export default (sequelize) => {
+	const BalanceSheet = sequelize.define(
+		"balanceSheet", // Model name
+		{
+			// Attributes
+			bsId: {
+				type: Types.ID,
+				autoIncrement: true,
+				primaryKey: true,
+				allowNull: false,
+				unique: true
+			},
+			companyId: {
+				type: Types.ID,
+				allowNull: false,
+				check: Validates.isID
+			},
+			bsFirstLevelCode: {
+    			type: Types.CODE
+    		},
+			bsFirstLevelAccount: {
+    			type: DataTypes.STRING(45)
+    		},
+			bsSecondLevelCode: {
+    			type: Types.CODE
+    		},
+			bsSecondLevelAccount: {
+    			type: DataTypes.STRING(45)
+    		},
+			bsThirdLevelCode: {
+    			type: Types.CODE
+    		},
+			bsThirdLevelAccount: {
+    			type: DataTypes.STRING(45)
+    		},
+			bsFourthLevelCode: {
+    			type: Types.CODE
+    		},
+			bsFourthLevelAccount: {
+    			type: DataTypes.STRING(45)
+    		},
+			bsDuration: {
+    			type: DataTypes.STRING(45)
+    		},
+			bsAmount: {
+    			type: DataTypes.REAL
+    		},
+			isNegative: {
+    			type: DataTypes.BOOLEAN
+    		},
+
+			created_at: {
+				type: Types.CREATED_AT
+			},
+			updated_at: {
+				type: Types.UPDATED_AT
+			},
+			isDelete: {
+				type: Types.IS_DELETE
+			},
+			deleted_at: {
+				type: Types.DELETED_AT
+			},
+			createdByUser: {
+				type: Types.ID
+			},
+			updatedByUser: {
+				type: Types.ID
+			}
+		}, {
+		charset: 'utf8',
+		collate: 'utf8_unicode_ci',
+		timestamps: true,
+		underscrored: true,
+		updatedAt: "updated_at",
+		createdAt: false,
+		freezeTableName: true
+	});
+
+	BalanceSheet.recordName = "銀行帳戶";
+	
+	BalanceSheet.associate = (db) => {
+		belongsTo(db, BalanceSheet, db.company, "companyId");
+	}
+
+	return BalanceSheet;
+};
+

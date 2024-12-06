@@ -1,0 +1,1899 @@
+-----0-----
+Tell Your World .
+作詞：kz
+作曲：kz
+length:142s
+level:26
+maxcombo:1147
+status:
+perfect  1145
+great    2
+good     0
+bad      0
+miss     0
+-----1-----
+alive .
+作詞：市瀬るぽ
+作曲：市瀬るぽ
+length:137s
+level:26
+maxcombo:596
+status:
+perfect  1003
+great    10
+good     1
+bad      0
+miss     2
+-----2-----
+タイムマシン.
+作詞：164
+作曲：40mP
+length:141s
+level:26
+maxcombo:903
+status:
+perfect  900
+great    3
+good     0
+bad      0
+miss     0
+-----3-----
+ネワストネスト.
+作詞：さつき　が　てんこもり
+作曲：さつき　が　てんこもり
+length:145s
+level:29
+maxcombo:1131
+status:
+perfect  1116
+great    15
+good     0
+bad      0
+miss     0
+-----4-----
+メルト.
+作詞：ryo
+作曲：ryo
+length:201s
+level:28
+maxcombo:1172
+status:
+perfect  1573
+great    11
+good     0
+bad      0
+miss     2
+-----5-----
+初音ミクの消失.
+作詞：cosMo@暴走P
+作曲：cosMo@暴走P
+length:200s
+level:33
+maxcombo:600
+status:
+perfect  1393
+great    188
+good     38
+bad      10
+miss     37
+-----6-----
+Blessing .
+作詞：halyosy
+作曲：halyosy
+length:151s
+level:27
+maxcombo:986
+status:
+perfect  975
+great    11
+good     0
+bad      0
+miss     0
+-----7-----
+ロキ.
+作詞：みきとP
+作曲：みきとP
+length:141s
+level:28
+maxcombo:975
+status:
+perfect  960
+great    15
+good     0
+bad      0
+miss     0
+-----8-----
+テオ.
+作詞：Sakurai
+作曲：Omoi
+length:137s
+level:31
+maxcombo:713
+status:
+perfect  1140
+great    70
+good     4
+bad      0
+miss     7
+-----9-----
+ヒバナ-Reloaded-.
+作詞：DECO*27
+作曲：DECO*27
+length:147s
+level:32
+maxcombo:194
+status:
+perfect  958
+great    80
+good     3
+bad      1
+miss     18
+-----10-----
+八ツピーシンセサイザ.
+作詞：EasyPop
+作曲：EasyPop
+length:154s
+level:28
+maxcombo:1136
+status:
+perfect  1129
+great    7
+good     0
+bad      0
+miss     0
+-----11-----
+Nostalogic.
+作詞：yuukiss
+作曲：yuukiss
+length:140s
+level:28
+maxcombo:721
+status:
+perfect  968
+great    15
+good     1
+bad      0
+miss     1
+-----12-----
+ツギハ八ギスタッカート.
+作詞：とあ
+作曲：とあ
+length:139s
+level:27
+maxcombo:264
+status:
+perfect  842
+great    16
+good     0
+bad      0
+miss     3
+-----13-----
+劣等上等.
+作詞：Reol
+作曲：Giga
+length:113s
+level:30
+maxcombo:365
+status:
+perfect  902
+great    41
+good     4
+bad      0
+miss     9
+-----14-----
+ドクター=ファンクビート.
+作詞：nyanyannya
+作曲：nyanyannya
+length:149s
+level:32
+maxcombo:275
+status:
+perfect  1111
+great    65
+good     6
+bad      1
+miss     15
+-----15-----
+フラジール.
+作詞：ぬゆり
+作曲：ぬゆり
+length:145s
+level:27
+maxcombo:960
+status:
+perfect  1009
+great    30
+good     1
+bad      0
+miss     0
+-----16-----
+ブリキノダンス.
+作詞：日向電工
+作曲：日向電工
+length:119s
+level:29
+maxcombo:135
+status:
+perfect  943
+great    21
+good     0
+bad      0
+miss     3
+-----17-----
+スイートマジック.
+作詞：Junky
+作曲：Junky
+length:166s
+level:27
+maxcombo:1224
+status:
+perfect  1209
+great    15
+good     0
+bad      0
+miss     0
+-----18-----
+ぼうけんのしょがきえました！.
+作詞：じーざす
+作曲：じーざす
+length:128s
+level:31
+maxcombo:714
+status:
+perfect  1031
+great    56
+good     0
+bad      2
+miss     3
+-----19-----
+シヤルル.
+作詞：バルーン
+作曲：バルーン
+length:124s
+level:27
+maxcombo:824
+status:
+perfect  812
+great    12
+good     0
+bad      0
+miss     0
+-----20-----
+八ロ_八ワユ.
+作詞：ナノウ
+作曲：ナノウ
+length:167s
+level:26
+maxcombo:851
+status:
+perfect  845
+great    6
+good     0
+bad      0
+miss     0
+-----21-----
+自傷無色.
+作詞：ササノマリイ
+作曲：ササノマリイ
+length:127s
+level:26
+maxcombo:829
+status:
+perfect  822
+great    7
+good     0
+bad      0
+miss     0
+-----22-----
+needLe .
+作詞：DECO*27
+作曲：DECO*27
+length:137s
+level:29
+maxcombo:709
+status:
+perfect  1023
+great    5
+good     0
+bad      0
+miss     1
+-----23-----
+アイドル新鋭隊.
+作詞：Mitchie M
+作曲：Mitchie M
+length:123s
+level:28
+maxcombo:845
+status:
+perfect  926
+great    13
+good     0
+bad      0
+miss     1
+-----24-----
+Ready Steady.
+作詞：q*Left
+作曲：Giga
+length:112s
+level:29
+maxcombo:517
+status:
+perfect  649
+great    17
+good     0
+bad      0
+miss     1
+-----25-----
+セカイはまだ始まってすらいない.
+作詞：ピノキオピー
+作曲：ピノキオピー
+length:140s
+level:29
+maxcombo:1027
+status:
+perfect  1003
+great    24
+good     0
+bad      0
+miss     0
+-----26-----
+悔やむと書いてミライ.
+作詞：まふまふ
+作曲：まふまふ
+length:124s
+level:30
+maxcombo:512
+status:
+perfect  936
+great    35
+good     1
+bad      0
+miss     1
+-----27-----
+セカイ.
+作詞：DECO*27
+作曲：kemu
+length:131s
+level:27
+maxcombo:814
+status:
+perfect  837
+great    19
+good     1
+bad      0
+miss     1
+-----28-----
+ワーワーワールド.
+作詞：Mitchie M
+作曲：Mitchie M
+length:128s
+level:28
+maxcombo:305
+status:
+perfect  939
+great    15
+good     1
+bad      0
+miss     5
+-----29-----
+アスノヨゾラ哨戒班.
+作詞：Orangestar
+作曲：Orangestar
+length:148s
+level:28
+maxcombo:495
+status:
+perfect  1182
+great    21
+good     1
+bad      1
+miss     3
+-----30-----
+ニア.
+作詞：夏代孝明
+作曲：夏代孝明
+length:131s
+level:26
+maxcombo:841
+status:
+perfect  830
+great    11
+good     0
+bad      0
+miss     0
+-----31-----
+Just Be Friends.
+作詞：Dixie Flatline
+作曲：Dixie Flatline
+length:150s
+level:27
+maxcombo:989
+status:
+perfect  986
+great    3
+good     0
+bad      0
+miss     0
+-----32-----
+脱法ロック.
+作詞：Neru
+作曲：Neru
+length:140s
+level:31
+maxcombo:379
+status:
+perfect  1071
+great    65
+good     2
+bad      0
+miss     7
+-----33-----
+命に嫌われている.
+作詞：カンザキイオリ
+作曲：カンザキイオリ
+length:122s
+level:29
+maxcombo:526
+status:
+perfect  934
+great    34
+good     3
+bad      0
+miss     8
+-----34-----
+ワールドイズマイン.
+作詞：ryo
+作曲：ryo
+length:192s
+level:28
+maxcombo:760
+status:
+perfect  1396
+great    14
+good     1
+bad      0
+miss     6
+-----35-----
+Hand in Hand.
+作詞：kz
+作曲：kz
+length:146s
+level:27
+maxcombo:936
+status:
+perfect  1045
+great    26
+good     1
+bad      0
+miss     0
+-----36-----
+夜咄ディセイブ.
+作詞：じん
+作曲：じん
+length:159s
+level:30
+maxcombo:920
+status:
+perfect  1282
+great    27
+good     0
+bad      0
+miss     2
+-----37-----
+Gimme X Gimme.
+作詞：q*Left
+作曲：八王子P&Giga
+length:163s
+level:29
+maxcombo:651
+status:
+perfect  885
+great    20
+good     0
+bad      0
+miss     2
+-----38-----
+ビバ八ピ.
+作詞：Mitchie M
+作曲：Mitchie M
+length:110s
+level:28
+maxcombo:357
+status:
+perfect  695
+great    21
+good     1
+bad      0
+miss     5
+-----39-----
+ジャンキーナイトタウンオーケストラ.
+作詞：すりい
+作曲：すりい
+length:163s
+level:31
+maxcombo:1214
+status:
+perfect  1327
+great    45
+good     0
+bad      0
+miss     2
+-----40-----
+ミラクルぺイント.
+作詞：OSTER project
+作曲：OSTER project
+length:183s
+level:29
+maxcombo:1437
+status:
+perfect  1413
+great    24
+good     0
+bad      0
+miss     0
+-----41-----
+on the rocks .
+作詞：OSTER project
+作曲：OSTER project
+length:166s
+level:27
+maxcombo:1004
+status:
+perfect  1000
+great    4
+good     0
+bad      0
+miss     0
+-----42-----
+携帯恋話.
+作詞：まふまふ
+作曲：まふまふ
+length:162s
+level:29
+maxcombo:1131
+status:
+perfect  1104
+great    27
+good     0
+bad      0
+miss     0
+-----43-----
+39みゆーじっく！.
+作詞：みきとP
+作曲：みきとP
+length:140s
+level:28
+maxcombo:1039
+status:
+perfect  1026
+great    13
+good     0
+bad      0
+miss     0
+-----44-----
+青く駆けろ！.
+作詞：まらしぃ
+作曲：まらしぃ
+length:137s
+level:27
+maxcombo:1048
+status:
+perfect  1039
+great    9
+good     0
+bad      0
+miss     0
+-----45-----
+ステラ.
+作詞：じん
+作曲：じん
+length:154s
+level:30
+maxcombo:962
+status:
+perfect  1164
+great    24
+good     0
+bad      0
+miss     2
+-----46-----
+Leia - Remind .
+作詞：ゆよゆっぺ
+作曲：ゆよゆっぺ
+length:148s
+level:28
+maxcombo:1007
+status:
+perfect  1130
+great    24
+good     0
+bad      0
+miss     1
+-----47-----
+ジャックポットサッドガール.
+作詞：syudou
+作曲：syudou
+length:103s
+level:29
+maxcombo:595
+status:
+perfect  733
+great    32
+good     1
+bad      0
+miss     1
+-----48-----
+メルティランドナイトメア.
+作詞：はるまきごはん
+作曲：はるまきごはん
+length:138s
+level:26
+maxcombo:959
+status:
+perfect  949
+great    10
+good     0
+bad      0
+miss     0
+-----49-----
+乙女解剖.
+作詞：DECO*27
+作曲：DECO*27
+length:134s
+level:27
+maxcombo:1002
+status:
+perfect  988
+great    14
+good     0
+bad      0
+miss     0
+-----50-----
+potatoになっていく .
+作詞：Neru
+作曲：Neru
+length:132s
+level:28
+maxcombo:435
+status:
+perfect  842
+great    18
+good     0
+bad      0
+miss     3
+-----51-----
+ローリンガール.
+作詞：wowaka
+作曲：wowaka
+length:161s
+level:31
+maxcombo:345
+status:
+perfect  1349
+great    39
+good     1
+bad      0
+miss     7
+-----52-----
+モア！ジャンプ！モア！.
+作詞：ナユタン星人
+作曲：ナユタン星人
+length:148s
+level:31
+maxcombo:570
+status:
+perfect  1218
+great    32
+good     2
+bad      1
+miss     4
+-----53-----
+裏表ラバルーズ.
+作詞：wowaka
+作曲：wowaka
+length:149s
+level:30
+maxcombo:658
+status:
+perfect  1097
+great    50
+good     1
+bad      0
+miss     3
+-----54-----
+アンノウン・マザーグース.
+作詞：wowaka
+作曲：wowaka
+length:159s
+level:29
+maxcombo:48
+status:
+perfect  1261
+great    29
+good     0
+bad      0
+miss     2
+-----55-----
+愛されなくても君がいる.
+作詞：ピノキオピー
+作曲：ピノキオピー
+length:178s
+level:27
+maxcombo:1075
+status:
+perfect  1068
+great    7
+good     0
+bad      0
+miss     0
+-----56-----
+ウミユリ海底譚.
+作詞：n-buna
+作曲：n-buna
+length:137s
+level:27
+maxcombo:833
+status:
+perfect  813
+great    20
+good     0
+bad      0
+miss     0
+-----57-----
+Forward .
+作詞：R Sound Design
+作曲：R Sound Design
+length:145s
+level:28
+maxcombo:833
+status:
+perfect  869
+great    24
+good     1
+bad      1
+miss     0
+-----58-----
+独りんぼエンヴィー.
+作詞：koyori
+作曲：koyori
+length:96s
+level:26
+maxcombo:589
+status:
+perfect  581
+great    8
+good     0
+bad      0
+miss     0
+-----59-----
+ODD&ENDS.
+作詞：ryo
+作曲：ryo
+length:114s
+level:28
+maxcombo:921
+status:
+perfect  904
+great    17
+good     0
+bad      0
+miss     0
+-----60-----
+ドラマツルギー.
+作詞：Eve
+作曲：Eve
+length:135s
+level:28
+maxcombo:810
+status:
+perfect  826
+great    32
+good     0
+bad      0
+miss     4
+-----61-----
+グリーンライツ・セレナーデ.
+作詞：Sakurai
+作曲：Omoi
+length:166s
+level:31
+maxcombo:456
+status:
+perfect  1103
+great    63
+good     3
+bad      0
+miss     5
+-----62-----
+恋愛裁判.
+作詞：40mP
+作曲：40mP
+length:197s
+level:27
+maxcombo:451
+status:
+perfect  1090
+great    54
+good     0
+bad      0
+miss     5
+-----63-----
+*八ロー、プラネット。.
+作詞：sasakure.UK
+作曲：sasakure.UK
+length:141s
+level:28
+maxcombo:665
+status:
+perfect  1033
+great    41
+good     1
+bad      0
+miss     1
+-----64-----
+千本桜.
+作詞：黒うさ
+作曲：黒うさ
+length:167s
+level:32
+maxcombo:375
+status:
+perfect  1149
+great    86
+good     6
+bad      2
+miss     14
+-----65-----
+ECHO.
+作詞：Crusher P
+作曲：Crusher P
+length:118s
+level:26
+maxcombo:412
+status:
+perfect  787
+great    13
+good     2
+bad      0
+miss     3
+-----66-----
+チュルリラ・チュルリラ・ダッダッダ!.
+作詞：和田たけあき(ぐらげP)
+作曲：和田たけあき(ぐらげP)
+length:160s
+level:31
+maxcombo:432
+status:
+perfect  1331
+great    63
+good     2
+bad      0
+miss     5
+-----67-----
+ブレス・ユア・ブレス.
+作詞：和田だけあき(ぐらげP)
+作曲：和田だけあき(ぐらげP)
+length:114s
+level:28
+maxcombo:657
+status:
+perfect  844
+great    28
+good     0
+bad      0
+miss     1
+-----68-----
+とても痛い痛がりたい.
+作詞：EZFG
+作曲：EZFG
+length:135s
+level:28
+maxcombo:915
+status:
+perfect  907
+great    8
+good     0
+bad      0
+miss     0
+-----69-----
+霽れを待つ.
+作詞：Orangestar
+作曲：Orangestar
+length:160s
+level:30
+maxcombo:872
+status:
+perfect  1074
+great    30
+good     0
+bad      0
+miss     2
+-----70-----
+ワールズエンド・ダンスホール.
+作詞：wowaka
+作曲：wowaka
+length:141s
+level:30
+maxcombo:447
+status:
+perfect  1009
+great    24
+good     1
+bad      0
+miss     10
+-----71-----
+ヒビカセ.
+作詞：れをる
+作曲：Giga
+length:160s
+level:28
+maxcombo:1019
+status:
+perfect  1008
+great    11
+good     0
+bad      0
+miss     0
+-----72-----
+Color of Drops.
+作詞：40mP
+作曲：40mP
+length:127s
+level:27
+maxcombo:345
+status:
+perfect  893
+great    20
+good     1
+bad      0
+miss     4
+-----73-----
+RAD DOGS .
+作詞：q*Left
+作曲：八王子P
+length:184s
+level:30
+maxcombo:789
+status:
+perfect  1152
+great    41
+good     0
+bad      0
+miss     3
+-----74-----
+ミルククラウン・オン・ソーネチカ.
+作詞：ユジー
+作曲：ユジー
+length:178s
+level:29
+maxcombo:650
+status:
+perfect  1177
+great    47
+good     1
+bad      0
+miss     1
+-----75-----
+drop pop candy .
+作詞：れをる
+作曲：Giga
+length:127s
+level:28
+maxcombo:902
+status:
+perfect  866
+great    36
+good     0
+bad      0
+miss     0
+-----76-----
+ポジティブ☆ダンスタイム.
+作詞：キノシタ
+作曲：キノシタ
+length:152s
+level:31
+maxcombo:613
+status:
+perfect  1095
+great    54
+good     0
+bad      2
+miss     3
+-----77-----
+Brand New Day .
+作詞：いるかアイス
+作曲：いるかアイス
+length:170s
+level:32
+maxcombo:253
+status:
+perfect  1211
+great    85
+good     9
+bad      1
+miss     10
+-----78-----
+限りなく灰色へ.
+作詞：すりい
+作曲：すりい
+length:142s
+level:30
+maxcombo:504
+status:
+perfect  818
+great    30
+good     0
+bad      1
+miss     0
+-----79-----
+ワンスアボンアドリーム.
+作詞：YASUHIRO(康寛)
+作曲：YASUHIRO(康寛)
+length:147s
+level:27
+maxcombo:871
+status:
+perfect  859
+great    12
+good     0
+bad      0
+miss     0
+-----80-----
+ポッカデラベリタ.
+作詞：柊キライ
+作曲：柊キライ
+length:136s
+level:28
+maxcombo:1119
+status:
+perfect  1101
+great    18
+good     0
+bad      0
+miss     0
+-----81-----
+みくみくにしてあげる【してやんよ】.
+作詞：ika_mo
+作曲：ika_mo
+length:142s
+level:28
+maxcombo:742
+status:
+perfect  917
+great    21
+good     0
+bad      0
+miss     1
+-----82-----
+威風堂々.
+作詞：梅とら
+作曲：梅とら
+length:185s
+level:28
+maxcombo:1166
+status:
+perfect  1137
+great    29
+good     0
+bad      0
+miss     0
+-----83-----
+from Y to Y
+作詞：ジミーサムP
+作曲：ジミーサムP
+length:179s
+level:26
+maxcombo:962
+status:
+perfect  973
+great    9
+good     0
+bad      0
+miss     0
+-----84-----
+初音ミクの激唱.
+作詞：GAiA
+作曲：cosMo@暴走P
+length:182s
+level:33
+maxcombo:676
+status:
+perfect  1521
+great    145
+good     38
+bad      19
+miss     19
+-----85-----
+天使のクローバー.
+作詞：DIVELA
+作曲：DIVELA
+length:139s
+level:31
+maxcombo:542
+status:
+perfect  1195
+great    29
+good     6
+bad      1
+miss     4
+-----86-----
+お気に召すまま.
+作詞：Eve
+作曲：Eve
+length:131s
+level:28
+maxcombo:667
+status:
+perfect  963
+great    23
+good     0
+bad      0
+miss     2
+-----87-----
+「1」.
+作詞：164
+作曲：164
+length:124s
+level:26
+maxcombo:814
+status:
+perfect  811
+great    3
+good     0
+bad      0
+miss     0
+-----88-----
+花を唄う.
+作詞：シノ
+作曲：シノ
+length:134s
+level:30
+maxcombo:240
+status:
+perfect  836
+great    30
+good     2
+bad      0
+miss     10
+-----89-----
+夜に駆ける.
+作詞：Ayase
+作曲：Ayase
+length:160s
+level:29
+maxcombo:241
+status:
+perfect  1105
+great    25
+good     6
+bad      1
+miss     3
+-----90-----
+幽霊東京.
+作詞：Ayase
+作曲：Ayase
+length:172s
+level:27
+maxcombo:830
+status:
+perfect  1042
+great    10
+good     0
+bad      0
+miss     1
+-----91-----
+KING .
+作詞：Kanaria
+作曲：Kanaria
+length:175s
+level:29
+maxcombo:1251
+status:
+perfect  1218
+great    33
+good     0
+bad      0
+miss     0
+-----92-----
+アイノマテリアル.
+作詞：Junky
+作曲：Junky
+length:143s
+level:26
+maxcombo:814
+status:
+perfect  808
+great    6
+good     0
+bad      0
+miss     0
+-----93-----
+いかないで.
+作詞：想太
+作曲：想太
+length:138s
+level:29
+maxcombo:742
+status:
+perfect  1152
+great    16
+good     1
+bad      1
+miss     3
+-----94-----
+ロミオとシンデレラ.
+作詞：doriko
+作曲：doriko
+length:130s
+level:27
+maxcombo:704
+status:
+perfect  1021
+great    13
+good     0
+bad      0
+miss     1
+-----95-----
+泡沫未来.
+作詞：加賀(ネギシャワーP)
+作曲：加賀(ネギシャワーP)
+length:126s
+level:30
+maxcombo:349
+status:
+perfect  879
+great    20
+good     1
+bad      0
+miss     3
+-----96-----
+トンデモワンダーズ.
+作詞：sasakure.UK
+作曲：sasakure.UK
+length:145s
+level:32
+maxcombo:402
+status:
+perfect  1126
+great    75
+good     4
+bad      3
+miss     16
+-----97-----
+カナデトモスソラ.
+作詞：Sasanomaly
+作曲：Sasanomaly
+length:136s
+level:26
+maxcombo:703
+status:
+perfect  700
+great    3
+good     0
+bad      0
+miss     0
+-----98-----
+トラフィツク・ジャム.
+作詞：煮ル果実
+作曲：煮ル果実
+length:171s
+level:28
+maxcombo:1089
+status:
+perfect  1075
+great    14
+good     0
+bad      0
+miss     0
+-----99-----
+ロリAEコーjpg.
+作詞：夏代孝明
+作曲：夏代孝明＆渡辺拓也
+length:135s
+level:28
+maxcombo:794
+status:
+perfect  804
+great    9
+good     0
+bad      0
+miss     1
+-----100-----
+Beat Eater .
+作詞：ポリスピカデリー
+作曲：ポリスピカデリー
+length:118s
+level:28
+maxcombo:486
+status:
+perfect  780
+great    15
+good     0
+bad      1
+miss     2
+-----101-----
+六兆年と一夜物語.
+作詞：kemu
+作曲：kemu
+length:170
+level:33
+maxcombo:190
+status:
+perfect  1024
+great    177
+good     27
+bad      14
+miss     46
+-----102-----
+地球最後の告白を.
+作詞：kemu
+作曲：kemu
+length:172s
+level:31
+maxcombo:486
+status:
+perfect  1137
+great    21
+good     1
+bad      1
+miss     4
+-----103-----
+ビターチヨコデコレーション.
+作詞：syudou
+作曲：syudou
+length:147s
+level:31
+maxcombo:332
+status:
+perfect  1321
+great    39
+good     6
+bad      2
+miss     9
+-----104-----
+そうだった！！.
+作詞：タケノコ少年
+作曲：タケノコ少年
+length:149s
+level:31
+maxcombo:614
+status:
+perfect  1258
+great    34
+good     0
+bad      0
+miss     5
+-----105-----
+カグロウデイズ.
+作詞：じん
+作曲：じん
+length:163s
+level:31
+maxcombo:791
+status:
+perfect  1379
+great    20
+good     1
+bad      1
+miss     3
+-----106-----
+アイスドロップ.
+作詞：aqu3ra
+作曲：aqu3ra
+length:125s
+level:27
+maxcombo:802
+status:
+perfect  797
+great    5
+good     0
+bad      0
+miss     0
+-----107-----
+Glory Steady Go!.
+作詞：キノシタ
+作曲：キノシタ
+length:119s
+level:29
+maxcombo:420
+status:
+perfect  846
+great    19
+good     3
+bad      0
+miss     7
+-----108-----
+チルドレンレコード.
+作詞：じん
+作曲：じん
+length:147s
+level:31
+maxcombo:840
+status:
+perfect  1463
+great    28
+good     3
+bad      0
+miss     8
+-----109-----
+magic number.
+作詞：伊東健人
+作曲：伊東健人
+length:130s
+level:29
+maxcombo:382
+status:
+perfect  949
+great    29
+good     3
+bad      0
+miss     7
+-----110-----
+流星のパルス
+作詞：*Luna
+作曲：*Luna
+length:139s
+level:30
+maxcombo:614
+status:
+perfect  1088
+great    31
+good     0
+bad      0
+miss     4
+-----111-----
+カドラリー.
+作詞：有機酸
+作曲：有機酸
+length:134s
+level:28
+maxcombo:583
+status:
+perfect  789
+great    15
+good     0
+bad      0
+miss     2
+-----112-----
+再生.
+作詞：Picon
+作曲：Picon
+length:122s
+level:26
+maxcombo:547
+status:
+perfect  536
+great    11
+good     0
+bad      0
+miss     0
+-----113-----
+群青讃歌.
+作詞：Eve
+作曲：Eve
+length:120s
+level:27
+maxcombo:833
+status:
+perfect  827
+great    6
+good     0
+bad      0
+miss     0
+-----114-----
+炉心融解.
+作詞：kuma(alfred)
+作曲：iroha(sasaki)
+length:144s
+level:27
+maxcombo:1167
+status:
+perfect  1157
+great    10
+good     0
+bad      0
+miss     0
+-----115-----
+ロストワンの号哭.
+作詞：Neru
+作曲：Neru
+length:128s
+level:32
+maxcombo:352
+status:
+perfect  1076
+great    59
+good     5
+bad      0
+miss     17
+-----116-----
+マシンガンポエムドール.
+作詞：cosMo@暴走P
+作曲：cosMo@暴走P
+length:184s
+level:33
+maxcombo:143
+status:
+perfect  1480
+great    241
+good     28
+bad      3
+miss     67
+-----117-----
+ベノム.
+作詞：かいりきベア
+作曲：かいりきベア
+length:129
+level:29
+maxcombo:1138
+status:
+perfect  1119
+great    19
+good     0
+bad      0
+miss     0
+-----118-----
+拝啓ドッツペルゲグンガー.
+作詞：kemu
+作曲：kemu
+length:178s
+level:32
+maxcombo:471
+status:
+perfect  1539
+great    92
+good     6
+bad      1
+miss     16
+-----119-----
+テレキヤスタービーボーイ.
+作詞：すりい
+作曲：すりい
+length:161s
+level:29
+maxcombo:859
+status:
+perfect  889
+great    8
+good     0
+bad      0
+miss     1
+-----120-----
+トキヲ・ファアンカ.
+作詞：takamatt
+作曲：takamatt
+length:126s
+level:28
+maxcombo:803
+status:
+perfect  848
+great    8
+good     0
+bad      0
+miss     3
+-----121-----
+悪魔の踊り方.
+作詞：キタニタツヤ
+作曲：キタニタツヤ
+length:143s
+level:30
+maxcombo:434
+status:
+perfect  909
+great    24
+good     4
+bad      0
+miss     1
+-----122-----
+だれかの心臓になれたなら.
+作詞：ユリイ・カノン
+作曲：ユリイ・カノン
+length:166s
+level:29
+maxcombo:535
+status:
+perfect  1028
+great    11
+good     0
+bad      1
+miss     4
+-----123-----
+マシュマリー.
+作詞：MIMI
+作曲：MIMI
+length:150s
+level:29
+maxcombo:767
+status:
+perfect  1297
+great    5
+good     0
+bad      0
+miss     1
+-----124-----
+ray.
+作詞：藤原基央
+作曲：藤原基央
+length:125
+level:26
+maxcombo:1092
+status:
+perfect  1088
+great    4
+good     0
+bad      0
+miss     0
+-----125-----
+Hello,world!.
+作詞：藤原基央
+作曲：藤原基央
+length:120s
+level:29
+maxcombo:734
+status:
+perfect  937
+great    11
+good     0
+bad      0
+miss     1
+-----126-----
+しっぐおぶはうす！.
+作詞：オゾン
+作曲：オゾン
+length:162s
+level:30
+maxcombo:630
+status:
+perfect  1286
+great    19
+good     2
+bad      1
+miss     5
+-----127-----
+シヨウタイム・ルーラー.
+作詞：鳥屋茶房
+作曲：鳥屋茶房
+length:150s
+level:31
+maxcombo:526
+status:
+perfect  1048
+great    9
+good     0
+bad      0
+miss     6
+-----128-----
+Happy Halloween .
+作詞：Junky
+作曲：Junky
+length:143s
+level:30
+maxcombo:467
+status:
+perfect  956
+great    29
+good     1
+bad      0
+miss     1
+-----129-----
+ロウワー.
+作詞：ぬゆり
+作曲：ぬゆり
+length:138s
+level:30
+maxcombo:268
+status:
+perfect  780
+great    43
+good     2
+bad      2
+miss     23
+-----130-----
+初音天地開闘神話.
+作詞：cosMo@暴走P
+作曲：cosMo@暴走P
+length:198s
+level:32
+maxcombo:467
+status:
+perfect  1866
+great    108
+good     6
+bad      9
+miss     32
+-----131-----
+オルターエゴ.
+作詞：Misumi
+作曲：Misumi
+length:144s
+level:31
+maxcombo:623
+status:
+perfect  1503
+great    41
+good     1
+bad      0
+miss     12
+-----132-----
+STAGE OF SEKAI.
+作詞：針原翼(はりーP)
+作曲：針原翼(はりーP)
+length:142s
+level:30
+maxcombo:878
+status:
+perfect  1143
+great    10
+good     0
+bad      0
+miss     3
+-----133-----
+からくぐりピエロ.
+作詞：40mP
+作曲：40mP
+length:159s
+level:27
+maxcombo:1005
+status:
+perfect  996
+great    9
+good     0
+bad      0
+miss     0
+-----134-----
+ワールドワイドワンダー.
+作詞：TOKOTOKO
+作曲：TOKOTOKO
+length:114s
+level:28
+maxcombo:765
+status:
+perfect  781
+great    4
+good     0
+bad      0
+miss     0
+-----135-----
+悪ノ娘.
+作詞：mothy
+作曲：mothy
+length:117s
+level:27
+maxcombo:784
+status:
+perfect  777
+great    7
+good     0
+bad      0
+miss     0
+-----136-----
+悪ノ召使.
+作詞：mothy
+作曲：mothy
+length:118s
+level:27
+maxcombo:784
+status:
+perfect  784
+great    0
+good     0
+bad      0
+miss     0
+-----137-----
+去り人達のワルツ.
+作詞：mothy
+作曲：mothy
+length:120s
+level:28
+maxcombo:484
+status:
+perfect  792
+great    5
+good     0
+bad      0
+miss     1
+-----138-----
+フィクサー.
+作詞：ぬゆり
+作曲：ぬゆり
+length:162s
+level:30
+maxcombo:1027
+status:
+perfect  1097
+great    15
+good     1
+bad      0
+miss     5
+-----139-----
+ミライ.
+作詞：有機酸
+作曲：有機酸
+length:178s
+level:28
+maxcombo:1281
+status:
+perfect  1266
+great    15
+good     0
+bad      0
+miss     0
+-----140-----
+ゴーストルール.
+作詞：DECO*27
+作曲：DECO*27
+length:161s
+level:32
+maxcombo:371
+status:
+perfect  1393
+great    52
+good     11
+bad      3
+miss     14
+-----141-----
+ヴィラン.
+作詞：てにをは
+作曲：てにをは
+length:116s
+level:29
+maxcombo:1058
+status:
+perfect  1141
+great    12
+good     0
+bad      0
+miss     1
+-----142-----
+サンドリヨン 10th Anniversary.
+作詞：orange
+作曲：Dios&シグナルP
+length:139s
+level:28
+maxcombo:770
+status:
+perfect  901
+great    9
+good     1
+bad      0
+miss     2
+-----14３-----
+少女レイ.
+作詞：みきとP
+作曲：みきとP
+length:179s
+level:27
+maxcombo:895
+status:
+perfect  1394
+great    4
+good     0
+bad      0
+miss     2
+
+-----144-----
+ガランド.
+作詞：Picon
+作曲：Picon
+length:154s
+level:28
+maxcombo:607
+status:
+perfect  924
+great    15
+good     0
+bad      0
+miss     4
+-----145-----
+エンドマークに希望と涙を添えて.
+作詞：-
+作曲：cosMo@暴走P
+length:165
+level:34
+maxcombo:340
+status:
+perfect  1613
+great    237
+good     1
+bad      9
+miss     54
